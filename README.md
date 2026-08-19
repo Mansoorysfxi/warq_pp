@@ -8,5 +8,3 @@ Static GitHub Pages site containing the privacy policy for the Warq app.
 2. In the repository, open **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 4. The deployment workflow will publish the site and show its URL.
-
-Before publishing, replace the support-email placeholder in both `index.html` and `PRIVACY_POLICY.md`.

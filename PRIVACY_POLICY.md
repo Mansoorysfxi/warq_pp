@@ -69,4 +69,4 @@ This Privacy Policy may be updated when Warq's functionality or legal requiremen
 For privacy questions or requests, contact:
 
 **Developer:** TechnoEdge<br>
-**Email:** [YOUR SUPPORT EMAIL]
+**Email:** [warqsupport@gmail.com](mailto:warqsupport@gmail.com)
