@@ -2,7 +2,7 @@
 
 **Effective date: August 20, 2026**
 
-Warq is developed by **[YOUR DEVELOPER OR COMPANY NAME]**. This Privacy Policy explains how Warq accesses, processes, stores, and protects information.
+Warq is developed by **TechnoEdge**. This Privacy Policy explains how Warq accesses, processes, stores, and protects information.
 
 ## Information processed by Warq
 
@@ -68,5 +68,5 @@ This Privacy Policy may be updated when Warq's functionality or legal requiremen
 
 For privacy questions or requests, contact:
 
-**Developer:** [YOUR DEVELOPER OR COMPANY NAME]  
+**Developer:** TechnoEdge<br>
 **Email:** [YOUR SUPPORT EMAIL]
