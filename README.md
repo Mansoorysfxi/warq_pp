@@ -1,6 +1,6 @@
-# Warq Privacy Policy
+# Safha Privacy Policy
 
-Static GitHub Pages site containing the privacy policy for the Warq app.
+Static GitHub Pages site containing the privacy policy for the Safha app.
 
 ## Publish
 
